@@ -46,5 +46,6 @@ LeetCode: Начните с задач уровня Easy, чтобы разог�
 
 <!-- ССЫЛКИ -->
 - [Coding Patterns](https://github.com/dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions?tab=readme-ov-file)
-
 - [Разбор алгоритмических задач с собеседований в Google, Facebook, Amazon](https://habr.com/ru/articles/586598/)
+- [Leetcode Patterns](https://github.com/seanprashad/leetcode-patterns?tab=readme-ov-file)
+- [Leetcode Company-wise Problem Lists](https://github.com/hxu296/leetcode-company-wise-problems-2022)

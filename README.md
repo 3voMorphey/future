@@ -8,3 +8,7 @@
 - [Собеседование IT специалиста: Гайд 2025](https://cvator.ru/sobesedovanie/spetsialist-informatsionnyh-tehnologij/)
 - [Полный гайд по собеседованиям в IT](https://nazarov.community/polnyy-gayd-po-sobesedovaniyam-v-it)
 - [Список тестовых заданий для прокачки](https://github.com/Hexlet/ru-test-assignments)
+- [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions?tab=readme-ov-file)
+- [Reverse interview. Вопросы работодателю](https://github.com/viraptor/reverse-interview)
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook?tab=readme-ov-file)
+
